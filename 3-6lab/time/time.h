@@ -5,6 +5,7 @@ class Time {
     public:
         Time();
         Time(int, int, int);
+        ~Time();
         void normalize();
         void print();
 

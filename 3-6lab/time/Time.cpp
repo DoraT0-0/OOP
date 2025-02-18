@@ -8,6 +8,10 @@ Time::Time(int h, int m, int s) : hours(h), minutes(m), seconds(s) {
     normalize();
 }
 
+Time::~Time()
+{
+    cout << "ram clear";
+}
 
 int Time::getHours(){return hours;}
 void Time::setHours(int ah){hours = ah;}
