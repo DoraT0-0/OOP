@@ -1,0 +1,5 @@
+precious,Алмаз,2.5,5000.00,0.95,Очень редкий
+precious,Ruby,1.8,3000.00,0.88,Rare
+semi-precious,Amethyst,3.2,150.00,0.75,Brazil
+semi-precious,Topaz,2.1,200.00,0.82,Russia
+precious,Emerald,1.5,4000.00,0.90,Very Rare
